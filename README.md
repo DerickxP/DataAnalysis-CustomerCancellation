@@ -13,4 +13,12 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DerickxP/DataAnalysis-CustomerCancellation">
   </a>
 
-  
+In this code a data analysis model with Python will be shown.
+
+# 📝 Case - Customer Cancellation
+" A company with more than 800,000 customers recently noticed that its customer base is mostly inactive customers, that is, customers who have already canceled their service.
+Needing to improve her results, she wants to be able to understand the main reasons for these cancellations and what are the most efficient actions to reduce this number."
+
+## **🛠️ Technologies used**
+
+The following technologies were used:
