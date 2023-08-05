@@ -12,6 +12,7 @@
    <a href="https://github.com/DerickxP/DataAnalysis-CustomerCancellation/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DerickxP/DataAnalysis-CustomerCancellation">
   </a>
+  
   </p>
 
 In this code a data analysis model with Python will be shown.
@@ -34,4 +35,28 @@ The following technologies were used:
     <a href="https://code.visualstudio.com/">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     </a>
+    <a href="https://plotly.com/">
+        <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+    </a>
+    <a href="https://pandas.pydata.org/">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    </a>
+</p>
+
+# **📃 Conclusion**
+<p>
+    In this case, we were able to analyze 4 main points that lead this company to have a high cancellation rate.
+
+▪️Point 1: Monthly Subscription Type.
+All customers who had this subscription chose to cancel it
+
+▪️Point 2: Call center calls.
+It was found that all customers who call the call center more than 5 times choose to cancel.
+
+▪️Point 3: Last Days.
+Customers with more than 20 days of delay also cancel.
+
+▪️Point 4: Age
+Customers over 50 do not continue with their subscriptions.
+    
 </p>
